@@ -62,6 +62,7 @@ I am a software developer specializing in building clean, scalable, and user-cen
 
 <!--- statistics --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+![Snake Grid](https://github.com/Abidafi/Abidafi/blob/output/github-contribution-grid-snake.svg)
 
 <!--- visit count --->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abidafi&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
