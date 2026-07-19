@@ -23,7 +23,43 @@ I am a software developer specializing in building clean, scalable, and user-cen
 - 📫 How to reach me: [Send me an E-mail](mailto:abid19918february@gmail.com)
 - 🌐 Explore My Portfolio [Abidur Rahman](https://abidur-portfolio.netlify.app/) 
 - 😄 Pronouns: He/Him/His 
-- ⚡ Fun fact: I'm an INFJ and a deep thinker, which means I spend just as much time debugging my thoughts as I do my code. 
+- ⚡ Fun fact: I'm an INFJ and a deep thinker, which means I spend just as much time debugging my thoughts as I do my code.
+
+---
+
+## 🔮 FOLLOW ME ON SOCIALS:
+
+<div>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/abidurrahman91/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
+</div>
+
+<!-- technology -->
+## ✨ TECHNOLOGY STACK:
+
+### Languages:
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,graphql,py)](https://github.com/touhidcodes)
+
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/touhidcodes)
+
+### JavaScript Frameworks & Libraries:
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/touhidcodes)
+
+### Database & Model:
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase)](https://github.com/touhidcodes)
+
+### Deployment Platform:
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/touhidcodes)
+
+### Design & Graphics:
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/touhidcodes)
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker)](https://github.com/touhidcodes)
+
+<br/>
+
 
 
 
