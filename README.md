@@ -9,7 +9,9 @@
   <h3><strong>I am an AI-powered Full Stack Developer</strong></h3>
 </div>
 
-![I am an AI-powered Full Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<p align="center">
+  <img src="Githubu Banner.jpg" alt="Abidur Rahman Banner" width="100%">
+</p>
 
 I am a software developer specializing in building clean, scalable, and user-centric applications, who loves transforming complex problems into elegant code while currently deep-diving into new technologies and seeking open-source collaborations.
 
