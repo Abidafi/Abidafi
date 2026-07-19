@@ -60,6 +60,12 @@ I am a software developer specializing in building clean, scalable, and user-cen
 
 <br/>
 
+<h3 align="left">📊 Git Stats & Language Metrics</h3>
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=Abidafi&show_icons=true&theme=vision-friendly-dark&rank_icon=github" alt="Abidur's GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abidafi&layout=compact&theme=vision-friendly-dark" alt="Abidur's Most Used Languages" height="195" />
+</p>
+
 <!--- statistics --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 ![Snake Grid](https://github.com/Abidafi/Abidafi/blob/output/github-contribution-grid-snake.svg)
