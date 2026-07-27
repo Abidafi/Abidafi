@@ -63,7 +63,7 @@ I am a software developer specializing in building clean, scalable, and user-cen
 <h3 align="left">📊 Git Stats & Language Metrics</h3>
 <p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=Abidafi&show_icons=true&theme=vision-friendly-dark&rank_icon=github" alt="Abidur's GitHub Stats" height="195" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abidafi&layout=compact&theme=vision-friendly-dark" alt="Abidur's Most Used Languages" height="195" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abidafi&layout=pie&theme=vision-friendly-dark" alt="Abidur's Most Used Languages" height="195" />
 </p>
 
 <!--- statistics --->
