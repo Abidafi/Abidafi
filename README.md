@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="Githubu Banner.jpg" alt="Abidur Rahman Banner" width="100%">
+  <img src="Github Banner.jpeg" alt="Abidur Rahman Banner" width="100%">
 </p>
 
 <div align="center">
